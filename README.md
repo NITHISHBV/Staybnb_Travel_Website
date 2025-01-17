@@ -16,7 +16,8 @@
 # Third_Page:
 <img width="940" alt="stay6" src="https://github.com/user-attachments/assets/86e46e1f-503f-43bf-bb95-3aa66bbdedf8" />
 <img width="940" alt="stay7" src="https://github.com/user-attachments/assets/3b15d364-1083-43c8-888d-b2052f7c2e55" />
-# Demo Link:
+
+# Demo:
 https://nithishbv.github.io/Staybnb_Travel_Website/Html_Home_Page.html
 
  # Connect me at :
